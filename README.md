@@ -8,6 +8,7 @@ Also, if you don't know which TV Series you should watch next. You can ask Serie
 ## Installation
 
 Visit the link below to go to Amazon.com and install the skill to your Alexa Device (Only available in English US)
+
 Link: https://www.amazon.com/Jayant-Dhawan-Series-Guide/dp/B079LT1ZY7
 
 ## Usage
