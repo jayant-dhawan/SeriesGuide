@@ -14,6 +14,9 @@ Link: https://www.amazon.com/Jayant-Dhawan-Series-Guide/dp/B079LT1ZY7
 ## Usage
 
 "Alexa, ask series guide to suggest a drama series"
+
 "Alexa, ask series guide to suggest a TV series"
+
 "Alexa, ask Series Guide to tell me about Game of Thrones"
+
 "Alexa, ask Series Guide about the next episode of The Flash"
